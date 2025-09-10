@@ -5,8 +5,6 @@ Use the knowledge learned in school to do something interesting
 
 This is a simple and classic number guessing game built with vanilla JavaScript, HTML, and CSS. Test your intuition by trying to guess the secret number chosen by the computer!
 
-![Game Screenshot](your-screenshot-filename.png)
-*(Note: For the image to show up, make sure you add a screenshot of your game to the folder and update the filename here.)*
 
 ***
 
