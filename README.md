@@ -1,0 +1,29 @@
+Pig Game 🎲
+This is a simple and fun two-player dice game built with vanilla JavaScript, HTML, and CSS. Players take turns rolling the dice and compete to be the first to reach 100 points.
+
+Game Rules
+Roll the dice: Click the ROLL DICE button to roll the dice. The points will be added to your "Current Points."
+
+Save Points: You can click the HOLD button at any time to add your "Current Points" to your total. After that, it's the next player's turn.
+
+Beware of the 1 point: If you roll a 1, your "Current Points" will be lost, and the next player's turn will immediately pass.
+
+Winning Condition: The first player to reach a total of 100 or more points wins! 🏆
+
+New Game: Click NEW GAME to reset the game at any time.
+
+How to Run Locally
+This is a pure front-end project; no dependencies are required.
+
+Download all the project files to your computer.
+
+Find and open the index.html file in your web browser (e.g., Chrome, Firefox).
+
+Start playing!
+
+Technology Stack
+HTML5
+
+CSS3
+
+JavaScript
